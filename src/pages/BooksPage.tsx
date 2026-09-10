@@ -17,7 +17,6 @@ export function BooksPage() {
         </p>
       </section>
 
-      {/* SECTION 2 — BOOKS GRID */}
       <section className="px-6 py-24 md:px-12 md:py-32 max-w-6xl mx-auto border-t border-border/20">
         <h2 className="film-title text-3xl sm:text-4xl md:text-5xl text-foreground font-light text-center mb-16 sm:mb-20 tracking-wider">
           BOOKS
