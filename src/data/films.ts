@@ -22,7 +22,6 @@ import thegirl2 from "../assets/the girl2.jpg"
 import humanweb1 from "../assets/The human web1.jpg"
 import humanweb2 from "../assets/the human web2.jpg"
 
-//Import stills
 
 // TYPE
 export interface Film {
