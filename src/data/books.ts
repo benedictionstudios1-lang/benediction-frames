@@ -1,5 +1,5 @@
 import book1 from "../assets/living-under-an-open-heaven.jpg";
-import book2 from "../assets/taking-but-saying-good-stuff.jpg";
+import book2 from "../assets/taking-but-saying-good-stuff.png";
 import book3 from "../assets/ripples-of-holiness.jpg";
 
 export interface Book {

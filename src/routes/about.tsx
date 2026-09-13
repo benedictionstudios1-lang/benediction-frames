@@ -102,26 +102,26 @@ function About() {
 
           <div className="grid gap-12 sm:grid-cols-3 border-t border-white/10 pt-12">
             <div>
-              <span className="label-caps text-xs text-gold/70 block mb-3">01 · PATIENT LIGHT</span>
-              <h3 className="film-title text-2xl text-foreground mb-3 font-light">Honesty First</h3>
+              <span className="label-caps text-xs text-gold/70 block mb-3">01 · CREATIVE FREEDOM</span>
+              <h3 className="film-title text-2xl text-foreground mb-3 font-light">Story Over Budget</h3>
               <p className="text-foreground/75 font-light text-base leading-relaxed">
-                We shoot using natural ambient light and long, unbroken takes, giving actors space to exist authentically.
+                We work lean by design. We don't need a masive budget to tell a massive story. Lean productions keep us resourceful, protect the story, and give us the freedom to create without unnecessary outside pressure.
               </p>
             </div>
 
             <div>
-              <span className="label-caps text-xs text-gold/70 block mb-3">02 · HUMAN SCALE</span>
-              <h3 className="film-title text-2xl text-foreground mb-3 font-light">Intimacy Over Scale</h3>
+              <span className="label-caps text-xs text-gold/70 block mb-3">02 · HUMAN TRUTH</span>
+              <h3 className="film-title text-2xl text-foreground mb-3 font-light">Intimacy Over Spectacle</h3>
               <p className="text-foreground/75 font-light text-base leading-relaxed">
-                A single room or a quiet conversation holds more drama than explosions when written with truth and intent.
+                We believe a quiet conversation in a single room can carry more power than an explosion. Give us honest writing, truthful performances and room for the camera to breathe. Truth is our special effect.
               </p>
             </div>
 
             <div>
-              <span className="label-caps text-xs text-gold/70 block mb-3">03 · ENDURING RESONANCE</span>
-              <h3 className="film-title text-2xl text-foreground mb-3 font-light">Cinema That Stays</h3>
+              <span className="label-caps text-xs text-gold/70 block mb-3">03 · OPEN DOORS</span>
+              <h3 className="film-title text-2xl text-foreground mb-3 font-light">Passion Over Pedigree</h3>
               <p className="text-foreground/75 font-light text-base leading-relaxed">
-                Our objective is never quick distraction. We make films intended to linger in memory long after the credits fade.
+                We look for the hungry, the gifted and the undiscovered. In front of the camera and behind it, Benediction Studios creates opportunities for emerging talent with some no resume can manufacture: PASSION.
               </p>
             </div>
           </div>

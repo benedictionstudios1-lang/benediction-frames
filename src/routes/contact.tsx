@@ -14,7 +14,7 @@ export const Route = createFileRoute("/contact")({
       { property: "og:title", content: "Let's Talk — Benediction Studios" },
       {
         property: "og:description",
-        content: "Film screenings, festivals, distribution, press and collaborations.",
+        content: "Directing (Stage/Film), Film screenings, festivals, distribution, press and collaborations.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -24,6 +24,7 @@ export const Route = createFileRoute("/contact")({
 });
 
 const inquiryTopics = [
+  "Directing (Stage/Film)",
   "Film Screenings",
   "Festivals & Distribution",
   "Media & Press",
